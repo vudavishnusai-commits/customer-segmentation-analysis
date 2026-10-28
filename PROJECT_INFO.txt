@@ -1,0 +1,6 @@
+Project: Customer Segmentation and Predictive Analytics System
+Level: Advanced / college mini-project demonstration
+Interface: Streamlit
+Prediction target: Future 90-day customer spending
+Dataset: Synthetic and anonymized
+Run command: streamlit run app.py
